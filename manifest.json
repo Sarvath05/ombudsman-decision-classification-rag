@@ -1,0 +1,314 @@
+{
+  "processed_files": {
+    "DRN-5859507.pdf": {
+      "status": "parsed",
+      "doc_id": "7b67a6b0df0b18f8",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-5930046.pdf": {
+      "status": "parsed",
+      "doc_id": "55c637a90ebde11a",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6014193.pdf": {
+      "status": "parsed",
+      "doc_id": "4c287639889fab88",
+      "outcome": null,
+      "warnings": [
+        "outcome_not_matched_by_rules"
+      ]
+    },
+    "DRN-6024328.pdf": {
+      "status": "parsed",
+      "doc_id": "c303fa9c39c56400",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6036800.pdf": {
+      "status": "parsed",
+      "doc_id": "cb0437008f552cd1",
+      "outcome": "Not upheld",
+      "warnings": [
+        "missing_section:what_happened"
+      ]
+    },
+    "DRN-6051896.pdf": {
+      "status": "parsed",
+      "doc_id": "d5445f595bb3f84f",
+      "outcome": "Upheld",
+      "warnings": []
+    },
+    "DRN-6124221.pdf": {
+      "status": "parsed",
+      "doc_id": "162bd640d94c5ca0",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6149267.pdf": {
+      "status": "parsed",
+      "doc_id": "90734a19ae295f5a",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6163341.pdf": {
+      "status": "parsed",
+      "doc_id": "65ea6a0b7e365fab",
+      "outcome": null,
+      "warnings": [
+        "outcome_not_matched_by_rules"
+      ]
+    },
+    "DRN-6164674.pdf": {
+      "status": "parsed",
+      "doc_id": "20dc6d168dd94a64",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6166175.pdf": {
+      "status": "parsed",
+      "doc_id": "ce360ad55decce40",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6175268.pdf": {
+      "status": "parsed",
+      "doc_id": "e9862d144272e44a",
+      "outcome": "Upheld",
+      "warnings": [
+        "missing_section:what_happened"
+      ]
+    },
+    "DRN-6189960.pdf": {
+      "status": "parsed",
+      "doc_id": "a9cfd545c5c22870",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6207896.pdf": {
+      "status": "parsed",
+      "doc_id": "fcba6f69a61d5336",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6213142.pdf": {
+      "status": "parsed",
+      "doc_id": "b9824b350949da80",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6220210.pdf": {
+      "status": "parsed",
+      "doc_id": "297afb420abf661f",
+      "outcome": "Upheld",
+      "warnings": []
+    },
+    "DRN-6230539.pdf": {
+      "status": "parsed",
+      "doc_id": "0f3c4bd9c5a37fcf",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6231292.pdf": {
+      "status": "parsed",
+      "doc_id": "fe10b437dc4cc656",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6241485.pdf": {
+      "status": "parsed",
+      "doc_id": "9fdcf65f48633ce3",
+      "outcome": "Upheld",
+      "warnings": []
+    },
+    "DRN-6246273.pdf": {
+      "status": "parsed",
+      "doc_id": "bfc71c19fbaa2005",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6250640.pdf": {
+      "status": "parsed",
+      "doc_id": "4d1c3e1b3b9dd3b9",
+      "outcome": "Partly upheld",
+      "warnings": []
+    },
+    "DRN-6254340.pdf": {
+      "status": "parsed",
+      "doc_id": "ec34d1e27874b954",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6259882.pdf": {
+      "status": "parsed",
+      "doc_id": "923e1c9ffd711c77",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6260608.pdf": {
+      "status": "parsed",
+      "doc_id": "e59e2ee02e14fe0a",
+      "outcome": "Partly upheld",
+      "warnings": []
+    },
+    "DRN-6262937.pdf": {
+      "status": "parsed",
+      "doc_id": "d0e06f5e3cde0818",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6270877.pdf": {
+      "status": "parsed",
+      "doc_id": "c41f95e470c61e17",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6283098.pdf": {
+      "status": "parsed",
+      "doc_id": "c1470cd517bc8cb6",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6287744.pdf": {
+      "status": "parsed",
+      "doc_id": "34e16cc7b5ebd529",
+      "outcome": null,
+      "warnings": [
+        "outcome_not_matched_by_rules"
+      ]
+    },
+    "DRN-6290284.pdf": {
+      "status": "parsed",
+      "doc_id": "703387ce4c5155a6",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6294956.pdf": {
+      "status": "parsed",
+      "doc_id": "3d2f3b582c2db4c9",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6303263.pdf": {
+      "status": "parsed",
+      "doc_id": "fe72532245ae8e10",
+      "outcome": "Upheld",
+      "warnings": []
+    },
+    "DRN-6305623.pdf": {
+      "status": "parsed",
+      "doc_id": "ead9f3715f15468f",
+      "outcome": "Upheld",
+      "warnings": []
+    },
+    "DRN-6311507.pdf": {
+      "status": "parsed",
+      "doc_id": "4b0b77b6f50e6e00",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6331900.pdf": {
+      "status": "parsed",
+      "doc_id": "7d6ae239bb69446a",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6335869.pdf": {
+      "status": "parsed",
+      "doc_id": "65d9823f1cc1c470",
+      "outcome": "Partly upheld",
+      "warnings": []
+    },
+    "DRN-6337801.pdf": {
+      "status": "parsed",
+      "doc_id": "a286fbcaa787b50a",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6338648.pdf": {
+      "status": "parsed",
+      "doc_id": "e8f6c71db95a1ae8",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6339639.pdf": {
+      "status": "parsed",
+      "doc_id": "fd2c7fadf1388f38",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6341243.pdf": {
+      "status": "parsed",
+      "doc_id": "b62c4a0adf0894a5",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6343451.pdf": {
+      "status": "parsed",
+      "doc_id": "fe9863ea3f421bc3",
+      "outcome": "Upheld",
+      "warnings": []
+    },
+    "DRN-6347467.pdf": {
+      "status": "parsed",
+      "doc_id": "78a0331afd88fce4",
+      "outcome": "Upheld",
+      "warnings": []
+    },
+    "DRN-6353716.pdf": {
+      "status": "parsed",
+      "doc_id": "f2ea507171b4daef",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6358427.pdf": {
+      "status": "parsed",
+      "doc_id": "301c6ff7efed51ae",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6364039.pdf": {
+      "status": "parsed",
+      "doc_id": "db90a2348edd1ae8",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6365543.pdf": {
+      "status": "parsed",
+      "doc_id": "79a0aed2962abfbb",
+      "outcome": "Upheld",
+      "warnings": []
+    },
+    "DRN-6365903.pdf": {
+      "status": "parsed",
+      "doc_id": "4587426187712eca",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6367849.pdf": {
+      "status": "parsed",
+      "doc_id": "4a047ef90e152cfc",
+      "outcome": "Not upheld",
+      "warnings": []
+    },
+    "DRN-6367962.pdf": {
+      "status": "parsed",
+      "doc_id": "040275b50836e281",
+      "outcome": "Upheld",
+      "warnings": []
+    },
+    "DRN-6370066.pdf": {
+      "status": "parsed",
+      "doc_id": "82c2a4997c92f2fe",
+      "outcome": "Upheld",
+      "warnings": []
+    },
+    "DRN-6370936.pdf": {
+      "status": "parsed",
+      "doc_id": "2fad1352b5f4d372",
+      "outcome": "Not upheld",
+      "warnings": []
+    }
+  }
+}
